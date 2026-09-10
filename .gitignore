@@ -1,0 +1,19 @@
+# Next.js
+node_modules/
+.next/
+out/
+
+# Spring Boot / Java
+target/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
